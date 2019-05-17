@@ -83,7 +83,7 @@ deploy:
 # Header
 menu:
   About: /about
-  Contact: /contact
-  Instagram: https://www.instagram.com
-  LinkedIn: https://www.linkedin.com
-  Facebook: https://www.facebook.com
+  Features: /features
+  Releases: /releases
+  Github: https://github.com
+  Twitter: https://twitter.com/giflens
