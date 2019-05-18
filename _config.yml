@@ -80,7 +80,7 @@ theme: edinburgh
 deploy:
   type: git
   repo: https://github.com/giflens/giflens-website
-  branch: master
+  branch: gh-pages
 
 # Header
 menu:
