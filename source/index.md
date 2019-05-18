@@ -5,7 +5,7 @@ date: 2019-05-16 14:39:28
 
 > GifLens **supercharges** the GIF capabilities built into Visual Studio Code. It helps you to **visualize GIFs** at a glance using `GIFLENS` tags and code lens, **seamlessly navigate and explore** Gif repositories, **gain valuable insights** via powerful GIFs, and so much more.
 
-# You code it, now you can sign it
+# Code it, GIF it
 
 VIDEO WHICH SHOWS THE MAIN WORKFLOW
 
@@ -19,6 +19,4 @@ VIDEO WHICH SHOWS THE MAIN WORKFLOW
 
 **Enjoy!**
 
-## RIP
-
-<img src="https://media.giphy.com/media/PmRWBGQ1NOREN5dYxk/giphy.gif" alt="RIP Grumpy cat" />
+<img src="https://media.giphy.com/media/PmRWBGQ1NOREN5dYxk/giphy.gif" style="margin-top: 30px;" alt="RIP Grumpy cat" />
