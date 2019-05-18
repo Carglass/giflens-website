@@ -82,8 +82,9 @@ deploy:
 
 # Header
 menu:
-  About: /about
+  Home: /
   Features: /features
   Releases: /releases
+  FAQ: /faq
   Github: https://github.com
   Twitter: https://twitter.com/giflens
