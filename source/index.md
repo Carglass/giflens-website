@@ -7,7 +7,7 @@ date: 2019-05-16 14:39:28
 
 # Code it, GIF it
 
-VIDEO WHICH SHOWS THE MAIN WORKFLOW
+<img src="./images/jon-snow.gif" alt="search gifs in vscode"/>
 
 ## Thank you
 

@@ -1,5 +1,5 @@
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   /* background-image: url("https://wallpapercave.com/wp/wp3284839.gif"); */
   background-image: url("https://i.ytimg.com/vi/h0LFFNgY_To/maxresdefault.jpg");
   background-size: 100%;
@@ -62,7 +62,7 @@ textarea:focus {
 h1,
 h2,
 h3 {
-  font-family: "Crimson Text", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   letter-spacing: 1px;
   font-weight: 300;
   margin-bottom: 20px;
@@ -127,7 +127,7 @@ h3 {
 
 .hovereffect .overlay-text {
   font-size: 1.3rem;
-  font-family: "Crimson Text", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
   color: #000;
   left: 50%;
@@ -172,7 +172,7 @@ h3 {
 .page-nav a,
 span {
   font-size: 1.3rem;
-  font-family: "Crimson Text", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
   margin: 0 10px;
   color: #000;
