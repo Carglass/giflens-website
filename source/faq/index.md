@@ -31,6 +31,7 @@ Also available on [AppStore](https://itunes.apple.com/us/app/sort-the-socks/id43
 - LESS
 - LUA
 - Makefile
+- Markdown
 - Objective C
 - Objective C++
 - Perl
