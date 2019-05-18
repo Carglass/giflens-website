@@ -78,7 +78,9 @@ theme: edinburgh
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/giflens/giflens-website
+  branch: master
 
 # Header
 menu:
