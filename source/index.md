@@ -7,7 +7,7 @@ date: 2019-05-16 14:39:28
 
 # Code it, GIF it
 
-<img src="./images/jump-fail.gif" alt="search gifs in vscode"/>
+<img src="/assets/jump-fail.gif" alt="search gifs in vscode"/>
 
 ## Thank you
 
@@ -15,7 +15,7 @@ date: 2019-05-16 14:39:28
 - The [Gitlens](https://github.com/eamodio/vscode-gitlens) team who helped us finding a name for this extension. Love your product too ❤️
 - The [Giphy](https://giphy.com/) team for their great api and endless database of amazing GIFs 😎
 
-<a href="https://giphy.com/"><img src="/images/PoweredBy_200_Horizontal_Light-Backgrounds_With_Logo.gif" alt="Powered by Giphy" width="200"/></a>
+<a href="https://giphy.com/"><img src="/assets/PoweredBy_200_Horizontal_Light-Backgrounds_With_Logo.gif" alt="Powered by Giphy" width="200"/></a>
 
 **Enjoy!**
 
