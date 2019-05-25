@@ -1,14 +1,19 @@
 body {
   font-family: "Source Sans Pro", sans-serif;
   /* background-image: url("https://wallpapercave.com/wp/wp3284839.gif"); */
-  /* background-image: url("/images/maxresdefault.jpg"); */
-  background-color: darkgray;
-  background-size: 100%;
+  background-image: url("/assets/prism.png");
+  /* background-color: lightgray; */
+  background-repeat: repeat;
+  font-size: 20px;
 }
 
 form {
   max-width: 500px;
   margin: 0 auto;
+}
+
+img {
+  max-width: 100%;
 }
 
 button {
