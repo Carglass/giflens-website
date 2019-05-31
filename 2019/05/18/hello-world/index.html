@@ -2,6 +2,18 @@
 <html lang="en">
   <!-- Head tag -->
   <head><meta name="generator" content="Hexo 3.8.0">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141205970-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+
+    gtag("config", "UA-141205970-1");
+  </script>
+
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -49,7 +61,7 @@
   	<div class="container-fluid navbar-container m-sm-5">
       <!-- Header -->
       <nav class="navbar navbar-toggleable-sm navbar-light px-1 py-3 my-3 mb-sm-5">
-  <img src="https://media.giphy.com/media/SA6yzQfvkW68UFKful/source.gif" alt="logo">
+  <img src="https://media.giphy.com/media/SA6yzQfvkW68UFKful/source.gif" alt="logo" style="object-fit: none;" class="logo-hidden-mobile">
   <a class="navbar-brand ml-2" href="/" style="color: #fff; font-size: 3em; margin-left: 20px!important;">Giflens</a>
   <button class="navbar-toggler navbar-toggler-right py-2" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -74,11 +86,7 @@
       </li>
       
       <li class="nav-item">
-        <a style="color: #fff; font-size: 1.5em;" class="nav-link" href="https://github.com/giflens/giflens">Github</a>
-      </li>
-      
-      <li class="nav-item">
-        <a style="color: #fff; font-size: 1.5em;" class="nav-link" href="https://twitter.com/giflens">Twitter</a>
+        <a style="color: #fff; font-size: 1.5em;" class="nav-link" href="/about">About</a>
       </li>
       
     </ul>
