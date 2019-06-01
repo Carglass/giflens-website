@@ -85,6 +85,7 @@ deploy:
 # Header
 menu:
   Home: /
+  Download: https://marketplace.visualstudio.com/items?itemName=giflens.giflens
   Features: /features
   Releases: /releases
   FAQ: /faq
