@@ -3,11 +3,13 @@ title: Home
 date: 2019-05-16 14:39:28
 ---
 
+<p style="font-size: 1.5 em; font-weight: 700;">Discover our new version 2.0 with many new features, and a side bar to manage your GIFs!</p>
+
 <p style="font-size: 1.3em;">GifLens **supercharges** the GIF capabilities built into Visual Studio Code. It helps you to **visualize GIFs** at a glance using `GIFLENS` tags and code lens, **seamlessly navigate and explore** Gif repositories, **gain valuable insights** via powerful GIFs, and so much more.</p>
 
 # Code it, GIF it
 
-<img src="/assets/jump-fail.gif" alt="search gifs in vscode"/>
+<img src="/assets/20-jonsnow.gif" alt="search gifs in vscode"/>
 
 ## Thank you
 
