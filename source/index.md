@@ -9,7 +9,7 @@ date: 2019-05-16 14:39:28
 
 # Code it, GIF it
 
-<img src="/assets/20-search-rafiki.gif" alt="search gifs in vscode"/>
+<img src="/assets/jonsnow.gif" alt="search gifs in vscode"/>
 
 ## Thank you
 
