@@ -15,7 +15,7 @@ Search for GIFs using our sidebar
 
 View a GIF from our sidebar before inserting it.
 
-<img src="/assets/20-viewinsert.gif" alt="search gifs in vscode"/>
+<img src="/assets/20-hover-arnold.gif" alt="search gifs in vscode"/>
 
 Store a GIF in your favorites for a later use.
 
